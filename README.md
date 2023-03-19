@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshpanwar883&show_icons=true&locale=en" alt="harshpanwar883" /></p>
 
 
-![snake gif](https://github.com/harshpanwar883/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/harshpanwar883/harshpanwar883/blob/output/github-contribution-grid-snake.gif)
